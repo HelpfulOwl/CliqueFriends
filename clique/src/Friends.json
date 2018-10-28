@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Maury",
+      "image": "/images/Maury.jpg",
+      "selected": false
+    },
+    {
+      "name": "Andrew",
+      "image": "/images/Andrew.jpg",
+      "selected": false
+    },
+    {
+      "name": "Coach Steve",
+      "image": "/images/CoachSteve.jpg",
+      "selected": false
+    },
+    {
+      "name": "Connie",
+      "image": "/images/Connie.jpg",
+      "selected": false
+    },
+    {
+      "name": "Devin",
+      "image": "/images/Devin.jpg",
+      "selected": false
+    },
+    {
+      "name": "Jay",
+      "image": "/images/Jay.jpg",
+      "selected": false
+    },
+    {
+      "name": "Judd",
+      "image": "/images/Jud.jpg",
+      "selected": false
+    },
+    {
+      "name": "Leah",
+      "image": "/images/Leah.jpg",
+      "selected": false
+    },
+    {
+      "name": "Lola",
+      "image": "/images/Lola.jpg",
+      "selected": false
+    },
+    {
+      "name": "Missy",
+      "image": "/images/Missy1.jpg",
+      "selected": false
+    },
+    {
+      "name": "Nick",
+      "image": "/images/Nick.jpg",
+      "selected": false
+    },
+    {
+      "name": "Shame Wizard",
+      "image": "/images/ShameWizard.jpg",
+      "selected": false
+    }
+]

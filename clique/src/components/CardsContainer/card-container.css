@@ -1,0 +1,13 @@
+.card-container {
+    margin: auto;
+    padding-top: 20px;
+    background: gray;
+    width: 33%;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 5px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
